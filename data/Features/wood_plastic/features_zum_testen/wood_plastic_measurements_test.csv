@@ -1,0 +1,11 @@
+operator,material,drillSize,drillType,transmission,sampleRate,dataFile
+tasnim,kunststoff-pc,5.0,universal,2,96000,2023_10_23_12_53_07_96000Hz.csv
+hendrik,kunststoff-pc,5.0,universal,2,96000,2023_12_12_12_13_48_96000Hz.csv
+tasnim,holz-spanplatte,5.0,universal,2,96000,2023_12_12_12_16_09_96000Hz.csv
+ella,holz-spanplatte,5.0,universal,2,96000,2023_12_12_12_16_30_96000Hz.csv
+valle,holz-spanplatte,5.0,universal,2,96000,2023_12_12_12_17_53_96000Hz.csv
+hendrik,kunststoff-pc,5.0,universal,2,96000,2023_12_12_12_19_01_96000Hz.csv
+tasnim,kunststoff-pc,5.0,universal,2,96000,2023_12_12_12_19_20_96000Hz.csv
+valle,holz-spanplatte,5.0,universal,2,96000,2023_12_12_12_19_40_96000Hz.csv
+hendrik,holz-spanplatte,5.0,universal,2,96000,2023_12_12_12_20_03_96000Hz.csv
+tasnim,kunststoff-pc,5.0,universal,2,96000,2023_12_12_12_20_35_96000Hz.csv

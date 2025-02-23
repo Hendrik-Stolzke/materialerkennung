@@ -1,0 +1,18 @@
+[project]
+name = "prepare_my_data"
+version = "0.0.1"
+authors = [
+  { name="Ella Pak", email="epak@stud.hs-offenburg.de" },
+]
+description = "A package for editing the csv data (drill time series) and getting a dataframe with all input files incl. the id for every time series"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/sampleproject"
+"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
